@@ -1,0 +1,7 @@
+*.pptx
+*.ppt
+cdf-clustering/
+pdf-clustering/
+confusion-matrix/
+data/
+derivative-clustering/

@@ -1,0 +1,55 @@
+BF_ADV : - 
+
+KMeans - 
+0 : small rise and then drop/continuous drop
+1 : sharp rise for a while then slight drop
+2 : sharp rise, drop, and then rise
+3 : smooth fall, almost exponential in nature
+4 : jaggedly rising
+
+BF_INT : - 
+
+KMeans - 
+0 : small rise and then drop/continuous drop
+1 : smooth fall, but sometimes in a jagged manner, and sometimes with a rise towards the end
+2 : rise, but sometimes in a jagged manner
+3 : rise, but several times a fall towards the end
+4 : sharp rise, then slight jagged fall/stagnant
+
+BF_RUD : - 
+
+KMeans - 
+0 : sharp rise, then slow rise, almost like a plateau
+1 : no data / ZERO
+2 : small rise and then drop/continuous drop
+3 : smooth fall, but sometimes in a jagged manner, and sometimes with a rise towards the end
+4 : sharp rise for a while then slight drop
+
+CHH_RUD : - 
+
+KMeans - 
+0 : sharp rise and then drop/continuous drop
+1 : sharp rise, then slight jagged fall/stagnant
+2 : smooth fall, almost exponential in nature
+3 : sharp rise, drop, and then rise
+4 : rise, but sometimes in a jagged manner
+
+
+CHH_ADV : - 
+
+KMeans - 
+0 : fall, but in a jagged manner, with sometimes a rise towards the end
+1 : rise, but sometimes in a jagged manner
+2 : sharp rise, then slow rise, almost like a plateau
+3 : no data / ZERO
+4 : small rise and then drop/continuous drop
+
+MSW_ADV : - 
+
+KMeans - 
+0 : smooth fall, almost exponential in nature
+1 : sharp rise, then slight jagged fall/stagnant
+2 : sharp rise and then drop/continuous drop
+3 : rise, but sometimes in a jagged manner
+4 : no data / ZERO
+
