@@ -5,3 +5,5 @@ pdf-clustering/
 confusion-matrix/
 data/
 derivative-clustering/
+temp/
+seaborn/

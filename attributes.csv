@@ -1,0 +1,13 @@
+attributes
+'BF_ADV',
+'BF_RUD',
+'BF_INT',
+'CHH_RUD',
+'CHH_INT',
+'CHH_ADV',
+'FC_RUD',
+'FC_INT',
+'FC_ADV',
+'MSW_RUD',
+'MSW_INT',
+'MSW_ADV'

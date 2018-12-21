@@ -1,0 +1,13 @@
+,attribute,no_of_clusters
+0,BF_ADV,2.0
+1,CHH_ADV,2.0
+2,BF_RUD,2.0
+3,BF_INT,2.0
+4,CHH_RUD,2.0
+5,CHH_INT,2.0
+6,CHH_ADV,2.0
+7,FC_INT,2.0
+8,FC_ADV,2.0
+9,MSW_RUD,3.0
+10,MSW_INT,2.0
+11,MSW_ADV,0.0
